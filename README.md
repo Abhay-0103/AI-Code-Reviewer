@@ -81,14 +81,14 @@ OPENAI_API_KEY=your_api_key_here
 cd Backend
 npm start
 ```
-Runs the backend server (default: http://localhost:4000).
+Runs the backend server (default: http://localhost:3000).
 
 # Frontend
 ```
 cd Frontend
 npm start
 ```
-Runs the frontend app (default: http://localhost:3000).
+Runs the frontend app (default: http://localhost:5173).
 
 # 💻 Usage
 
